@@ -1,1 +1,1 @@
-# Power-BI-Project-pdf
+The project deals with the statistics related to bike sales of a company for the year 2021 and 2022.It creates an appealing dashboard to answer the questions that were projected by the company onto the analyst and gives a final report answering the most significant question of the project- Whether to raise prices for the next year? 
